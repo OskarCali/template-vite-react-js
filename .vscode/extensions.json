@@ -1,18 +1,18 @@
 {
-    "recommendations": [
-        // Strictly recommended extensions
-        "dbaeumer.vscode-eslint",
-        "esbenp.prettier-vscode",
+  "recommendations": [
+    // Strictly recommended extensions
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
 
-        // Only if you want to use stylelint
-        "stylelint.vscode-stylelint",
+    // Only if you want to use stylelint
+    "stylelint.vscode-stylelint",
 
-        // Only if you want to use .editorconfig file
-        "editorconfig.editorconfig",
+    // Only if you want to use .editorconfig file
+    "editorconfig.editorconfig",
 
-        // Useful recommended extensions
-        "wix.vscode-import-cost",
-        "rangav.vscode-thunder-client",
-        "visualstudioexptteam.vscodeintellicode"
-    ]
+    // Useful recommended extensions
+    "wix.vscode-import-cost",
+    "rangav.vscode-thunder-client",
+    "visualstudioexptteam.vscodeintellicode"
+  ]
 }

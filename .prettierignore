@@ -1,0 +1,27 @@
+# Ensure node_modules
+**/node_modules
+
+# Distribution directory
+**/dist
+**/build
+
+# Package managers
+yarn.lock
+package-lock.json
+pnpm-lock.yaml
+
+# Public directory
+public
+
+# Environment variables
+.env
+.env.*
+!.env.example
+!.env.*.example
+
+# Other directories and files
+Dockerfile
+Dockerfile.*
+.DS_Store
+.*ignore
+.*config

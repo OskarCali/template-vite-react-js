@@ -1,0 +1,16 @@
+# EditorConfig helps maintain consistent coding styles across various editors and IDEs
+
+# This is the top-most; do not search in parent directories
+root = true
+
+# Rules for all files
+[*]
+end_of_line = LF
+charset = utf-8
+indent-style = space
+indent-size = 2
+insert_final_newline = true
+trim_trailing_whitespace = true
+
+[*.md]
+trim_trailing_whitespace = false

@@ -1,0 +1,9 @@
+# Ensure node_modules
+**/node_modules
+
+# Distribution directory
+**/dist
+**/build
+
+# Public directory
+public
